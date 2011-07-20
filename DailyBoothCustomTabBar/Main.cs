@@ -21,7 +21,6 @@ namespace DailyBoothCustomTabBar
 	{
 		UITabBarController tabBar;
 		UINavigationController [] navigationRoots;
-		CustomNavBarBackButton backButton;
 		
 		// This method is invoked when the application has loaded its UI and its ready to run
 		public override bool FinishedLaunching (UIApplication app, NSDictionary options)
