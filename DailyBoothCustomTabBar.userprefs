@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DailyBoothCustomTabBar/Main.cs">
+    <Files>
+      <File FileName="DailyBoothCustomTabBar/UIRaisedCenterButtonTabBar.cs" Line="49" Column="15" />
+      <File FileName="DailyBoothCustomTabBar/UICustomNavigationController.cs" Line="29" Column="54" />
+      <File FileName="DailyBoothCustomTabBar/Main.cs" Line="58" Column="6" />
+      <File FileName="DailyBoothCustomTabBar/TestViewController.cs" Line="53" Column="37" />
+      <File FileName="DailyBoothCustomTabBar/TestViewContoller2.cs" Line="51" Column="48" />
+      <File FileName="../../Downloads/WagonHeim/Wagonheim2/UI/MainUI.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="DailyBoothCustomTabBar" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
